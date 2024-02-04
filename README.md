@@ -56,7 +56,7 @@
   <br>
   <a href="https://github.com/henrikcozza" target="_blank"><img width="120px" src="https://img.icons8.com/bubbles/150/000000/github.png" title="Github Profile" alt="GitHub"/></a>
    <a href="https://www.linkedin.com/in/henrique-alves-conzatti-400391b8/" target="_blank"><img src="https://img.icons8.com/bubbles/150/000000/linkedin.png" target="_blank"></a> 
-   <a href=" https://discordapp.com/users/conza0589" target="_blank"><img src="https://img.icons8.com/bubbles/150/000000/discord.png" target="_blank"></a>
+   <a href="https://discordapp.com/users/conza0589" target="_blank"><img src="https://img.icons8.com/bubbles/150/000000/discord.png" target="_blank"></a>
   <a href = "mailto:henrique@conza.com.br"><img src="https://img.icons8.com/bubbles/150/000000/email.png" target="_blank"></a>
 
 </p>
