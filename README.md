@@ -39,7 +39,7 @@
 ---
 <p align="center">
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikcozza&layout=compact&theme=react"/>
-<img src="https://github-readme-stats.vercel.app/api?username=henrikcozza&layout=compact&show_icons=true&theme=react&rank_icon=github&include_all_commits=true&count_private=false"/>
+<img src="https://github-readme-stats.vercel.app/api?username=henrikcozza&layout=compact&show_icons=true&theme=react&rank_icon=github"/>
 </p>
 ---
 
